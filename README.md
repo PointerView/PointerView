@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Hernández
 
-Desarrollador **Backend Java** con enfoque en **Spring Boot** y desarrollo de **APIs REST**, interesado en desarrollas aplicaciones de calidad y optimizadas. Soy un gran fan de la algoritmia y codewars el mi lugar ideal para practicarla.
+Desarrollador **Backend Java** con enfoque en **Spring Boot** y desarrollo de **APIs REST**, interesado en desarrollas aplicaciones de calidad y optimizadas. Soy un gran fan de la algoritmia y Codewars el mi sitio preferido para practicarla.
 
 Tengo experiencia trabajando tanto en **mantenimiento de sistemas legacy** como en **desarrollo de aplicaciones desde cero**, utilizando Java y el ecosistema Spring. Me interesa especialmente el backend, la arquitectura de aplicaciones y el despliegue de servicios en entornos cloud.
 
