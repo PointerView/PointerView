@@ -56,7 +56,7 @@ Aquí encontrarás algunos de mis proyectos más representativos, enfocados prin
 - 🔹 **Microservicios con Spring Cloud** – Comunicación entre servicios, gateway y configuración centralizada.
 - 🔹 **APIs REST con Spring Boot** – Persistencia, validaciones y testing.
 
-Cada repositorio incluye un **README** con explicación del objetivo, tecnologías utilizadas y cómo ejecutarlo.
+Cada repositorio incluye un **README** con explicación del objetivo, tecnologías utilizadas.
 
 ---
 
@@ -72,7 +72,7 @@ Cada repositorio incluye un **README** con explicación del objetivo, tecnologí
 ## 📫 Contacto
 
 - 📧 Email: danielhc132000@gmail.com  
-- 💼 LinkedIn: *(añádelo aquí si lo tienes)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-hern%C3%A1ndez-carrasco-5b1173188  
 - 🧑‍💻 Codewars: https://www.codewars.com/users/PointerView  
 
 ---
