@@ -24,24 +24,49 @@ Actualmente continúo profundizando en **arquitectura backend, testing y desplie
 ## 🛠️ Tecnologías principales
 
 **Backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="32" />
+</p>
+
 - Java
 - Spring Boot (MVC, Security, Data JPA, WebFlux)
 - APIs REST
 - Microservicios (Eureka, Gateway, Feign/WebClient)
 
 **Bases de datos**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" />
+</p>
+
 - SQL
 - MariaDB
 - PostgreSQL
 - SQL Server
 
 **DevOps / Cloud**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
+</p>
+
 - Docker
 - docker-compose
 - AWS (nivel básico–intermedio)
 - Git / GitHub
 
 **Frontend (conocimientos generales)**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
+</p>
+
 - Angular
 - TypeScript
 - HTML / CSS
