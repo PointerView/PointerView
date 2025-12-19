@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Hernández
+# 👋 Hola, soy Daniel Hernández <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 Desarrollador **Backend Java** con enfoque en **Spring Boot** y desarrollo de **APIs REST**, interesado en desarrollas aplicaciones de calidad y optimizadas. Soy un gran fan de la algoritmia y Codewars el mi sitio preferido para practicarla.
 
